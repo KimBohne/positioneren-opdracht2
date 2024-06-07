@@ -27,16 +27,29 @@ img {
     bottom: 5px;
     right: 10px;
 }
-
 .elements-for-image {
     position: relative;
+}
+
+.new {
+    font-size: small;
+    color: #de6127;
+    background-color: #e8e8e8;
+}
+
+.new {
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5x;
+    padding-left: 10px;
+
 }
 
 
 
 
 
-{
+
 
 .
 
