@@ -34,9 +34,8 @@ article {
 
 .heart-shape {
    position: absolute;
-    bottom: 20px;
+    bottom: 6px;
     right: 10px;
-    background-color: red;
 }
 
 .elements-for-image {
@@ -71,7 +70,7 @@ h2 {
     color: #737373;
 }
 
-span {
+.dot-pink, .dot-blue, .dot-light-brown, .dot-green {
     display: inline-block;
     height: 20px;
     width: 20px;
@@ -94,7 +93,7 @@ span {
 .dot-green {
     background-color: lightgrey;
 }
-
+/*colors nog aanpassen van span element*/
 
 
 .
