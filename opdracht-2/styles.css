@@ -44,7 +44,19 @@ article {
 }
 
 .new-space {
-    background-color: deeppink;
+    background-color:#e8e8e8;
+    font-family: "Poppins", sans-serif;
+    color: #de6127;
+    padding: 10px 20px;
+    transform: rotate(-90deg);
+}
+
+.new-space {
+    display: inline-block;
+    width: 100px; /* of 100% van het parent-element */
+    text-align: center;
+}
+.new-space {
 
 }
 
