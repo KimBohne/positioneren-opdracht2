@@ -62,46 +62,52 @@ left: -69px;
     top: 72px;
 }
 
-h3 {
-    color: #e8e8e8;
+h1 {
+    font-family: "Poppins", sans-serif;
+    color: #737373;
+    font-weight: 700;
 }
 
-h2 {
+h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    /*color: #e8e8e8;*/
     color: #737373;
 }
 
-.dot-pink, .dot-blue, .dot-light-brown, .dot-green {
+h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #737373;
+}
+
+.product-info span {
     display: inline-block;
-    height: 20px;
-    width: 20px;
-    border: 2px solid white;
+    height: 25px;
+    width: 25px;
+
+    /*border: 2px solid white;*/
+    border: none;
     border-radius: 50%;
 }
 
 .dot-pink {
-    background-color: pink;
+    background-color: #faa0c7;
 }
 
 .dot-blue {
-    background-color: #737373;
+    background-color: #272729;
 }
 
 .dot-light-brown {
-    background-color: #c2c2b4;
+    background-color: #928471;
 }
 
 .dot-green {
-    background-color: lightgrey;
+    background-color: #c2c2b4;
 }
-/*colors nog aanpassen van span element*/
-
 
 .
-
-
-
-
-
 
 
 
